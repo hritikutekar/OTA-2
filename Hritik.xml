@@ -10,7 +10,7 @@
 <BuildUrl
   id="build"
   title="Build"
-  description="Download a Build">https://bitbucket.org/HritikUtekar/downloads/raw/master/</BuildUrl>
+  description="Download a Build">https://sourceforge.net/projects/hritikutekar/files</BuildUrl>
 <GAppsUrl
   id="GApps"
   title="Open GApps"
