@@ -10,7 +10,7 @@
 <BuildUrl
   id="build"
   title="Build"
-  description="Download a Build">http://downloads.resurrectionremix.com/oneplus3/</BuildUrl>
+  description="Download a Build">https://bitbucket.org/HritikUtekar/downloads/raw/master/</BuildUrl>
 <GAppsUrl
   id="GApps"
   title="Open GApps"
