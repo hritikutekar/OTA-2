@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <merlin>
-<Filename>RR-O-v6.0.0-20180525-merlin-Official.zip</Filename>
+<Filename>RR-O-v6.0.1-20180525-merlin-Official.zip</Filename>
 <LatestBuildUrl
   id="latestbuild"
   title="Latest Build"
