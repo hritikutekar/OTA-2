@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <merlin>
-            <Filename>RR-O-v6.0.0-20180524-merlin-Official.zip</Filename> 
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="ResurrectionRemix builds">https://www.androidfilehost.com/?fid=962339331458993936</RomUrl> 
+	<Filename>RR-O-v6.0.0-20180524-merlin-Official.zip</Filename>
+	<LatestBuildUrl
+  	id="latestbuild"
+ 	title="Latest Build"
+	description="Download Latest Build">ResurrectionRemix builds">https://www.androidfilehost.com/?fid=962339331458993936</LatestBuildUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"https://github.com/ResurrectionRemix/OTA/blob/master/akhil/Changelog.txt
