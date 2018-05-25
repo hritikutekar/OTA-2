@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Stable>
-        <merlin>
-	<Filename>RR-O-v6.0.0-20180524-merlin-Official.zip</Filename>
-	<LatestBuildUrl
-  	id="latestbuild"
- 	title="Latest Build"
-	description="Download Latest Build">ResurrectionRemix builds">https://www.androidfilehost.com/?fid=962339331458993936</LatestBuildUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"https://github.com/ResurrectionRemix/OTA/blob/master/akhil/Changelog.txt
-                description="View Changelog">https://raw.githubusercontent.com/hritikutekar/OTA-2/master/CHANGELOG.mkdn</ChangelogUrl>               
-            <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-	</merlin>
-    </Stable>
+<Stable>
+<merlin>
+<Filename>RR-O-v6.0.0-20180523-merlin-Official.zip</Filename>
+<LatestBuildUrl
+  id="latestbuild"
+  title="Latest Build"
+  description="Download Latest Build">https://bitbucket.org/HritikUtekar/downloads/raw/master/RR-O-v6.0.0-20180523-merlin-Official.zip</LatestBuildUrl>
+<BuildUrl
+  id="build"
+  title="Build"
+  description="Download a Build">http://downloads.resurrectionremix.com/oneplus3/</BuildUrl>
+<GAppsUrl
+  id="GApps"
+  title="Open GApps"
+  description="Download Open GApps">https://opengapps.org</GAppsUrl>
+<ChangelogUrl
+  id="changelog"
+  title="Changelog"
+  description="View Changelogs">https://github.com/ResurrectionRemix/OTA/blob/master/akhil/Changelog.txt</ChangelogUrl>
+</merlin>
+</Stable>
 </SlimOTA>
