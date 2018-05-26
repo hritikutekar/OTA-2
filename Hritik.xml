@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <merlin>
-<Filename>RR-O-v6.0.0-20180523-merlin-Official.zip</Filename>
+<Filename>RR-O-v6.0.0-20180526-merlin-Official.zip</Filename>
 <LatestBuildUrl
   id="latestbuild"
   title="Latest Build"
-  description="Download Latest Build">https://sourceforge.net/projects/hritikutekar/files/RR-O-v6.0.0-20180523-merlin-Official.zip/download</LatestBuildUrl>
+  description="Download Latest Build">https://sourceforge.net/projects/hritikutekar/files/RR-O-v6.0.0-20180526-merlin-Official.zip/download</LatestBuildUrl>
 <BuildUrl
   id="build"
   title="Build"
