@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
-<XT1557>
+<merlin>
 <Filename>RR-O-v6.0.0-20180526-merlin-Official.zip</Filename>
 <LatestBuildUrl
   id="latestbuild"
@@ -19,6 +19,6 @@
   id="changelog"
   title="Changelog"
   description="View Changelogs">https://github.com/ResurrectionRemix/OTA/blob/master/akhil/Changelog.txt</ChangelogUrl>
-</XT1557>
+</merlin>
 </Stable>
 </SlimOTA>
