@@ -6,11 +6,11 @@
 <LatestBuildUrl
   id="latestbuild"
   title="Latest Build"
-  description="Download Latest Build">https://sourceforge.net/projects/resurrectionremix-oreo/files/merlin/</LatestBuildUrl>
+  description="Download Latest Build">http://downloads.resurrectionremix.com/merlin/RR-O-v6.1.0-20180714-merlin-Official.zip</LatestBuildUrl>
 <BuildUrl
   id="build"
   title="Build"
-  description="Download a Build">https://sourceforge.net/projects/hritikutekar/files</BuildUrl>
+  description="Download a Build">http://downloads.resurrectionremix.com/merlin/</BuildUrl>
 <GAppsUrl
   id="GApps"
   title="Open GApps"
